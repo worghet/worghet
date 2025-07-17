@@ -1,7 +1,8 @@
-reading repo (project) titles
+**reading repo (project) titles**<br/><br/>
 *P___[##] // Personal<br/>
 ICS3U___[##] // Computer Science 11<br/>
 ICS4U___[##] // Computer Science 12<br/>*
+
 
 currently working on **P06___CARVIBES**
 <!--
