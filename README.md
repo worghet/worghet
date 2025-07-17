@@ -1,5 +1,13 @@
 i put up silly projects
 
+currently working on **P06___CARVIBES**
+
+## reading repo (project) titles
+ICS3U___[INDEX] // Computer Science 11
+ICS4U___[INDEX] // Computer Science 12
+P___[INDEX] // Personal 
+
+
 <!--
 **worghet/worghet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
