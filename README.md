@@ -1,3 +1,5 @@
+<span style="font-family: 'Lucida Console';">foo</span>
+
 **reading repo (project) titles**<br/>
 - P[##]___[CODENAME]  // *Personal*<br/>
 - ICS3U___[CODENAME] // *Computer Science 11*<br/>
