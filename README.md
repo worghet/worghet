@@ -1,4 +1,4 @@
-<span style="font-family: monospace;">foo</span>
+<span style="font-family: monospace;">The quick brown fox jumped over the lazy dog</span>
 
 **reading repo (project) titles**<br/>
 - P[##]___[CODENAME]  // *Personal*<br/>
