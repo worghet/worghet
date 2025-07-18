@@ -1,5 +1,3 @@
-<span style="font-family: monospace;">The quick brown fox jumped over the lazy dog</span>
-
 **reading repo (project) titles**<br/>
 - P[##]___[CODENAME]  // *Personal*<br/>
 - ICS3U___[CODENAME] // *Computer Science 11*<br/>
