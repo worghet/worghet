@@ -4,4 +4,4 @@
 - ICS4U___[CODENAME] // *Computer Science 12*<br/>
 
 
-currently working on **P07___LOWRAD**
+not working on any projects at the moment :/
