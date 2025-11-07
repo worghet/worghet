@@ -4,4 +4,4 @@
 - ICS4U___[CODENAME] // *Computer Science 12*<br/>
 
 
-currently working on P08___RAMM
+Currently studying hard and not working on any big projects!
