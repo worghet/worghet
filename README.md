@@ -1,1 +1,1 @@
-Currently studying hard and not working on any big projects!
+working on machak --> "machine for accounting"
