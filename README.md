@@ -6,5 +6,6 @@
 - virtual reality
 - android applications
 - web pages
-- backend (local and hosted servers and stuff)
+- game dev
+- backend (local and global servers hosted on aws)
 - more
