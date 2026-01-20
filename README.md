@@ -2,7 +2,7 @@
 1. vector_vr --> "real-time virtual reality dynamics simulator"
 2. machak --> "machine for accounting"
 
-# stuff ive worked on
+## stuff ive worked on
 - virtual reality
 - android applications
 - web pages
