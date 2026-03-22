@@ -1,5 +1,6 @@
 ### yo im mike and im working on 
-1. boolean - just a simple but fancy coin flipper to make my descisions
+1. BOOLEAN - just a simple but fancy coin flipper to make my descisions
+2. OBJECT_VR - not in dev yet but soon.. just a vr environment where i can interact with models i make while learning blender
 
 ### stuff ive worked on in the past
 - virtual reality
