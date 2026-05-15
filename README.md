@@ -1,4 +1,2 @@
-### cleaning up my github... Check back later!
-
-### some of my favorite projects are pinned below
-hope they inspire!
+### yo im mike, currently cleaning and polishing my github... check back later!
+### some of my favourite projects are below, hope they inspire!!
